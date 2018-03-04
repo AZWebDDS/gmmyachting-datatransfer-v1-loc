@@ -1,0 +1,52 @@
+POST https://portal.booking-manager.com/wbm2/app/yachts/index.jsp
+ 200 OK       808.13 kB       1114 ms
+
+View Request View Response
+HEADERS
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+Accept-Encoding: gzip, deflate, br
+
+Accept-Language: ru,en-US;q=0.9,en;q=0.8,uk;q=0.7,tr;q=0.6
+
+Authorization: Basic eWFjaHRAYmVyb3p5LmNvbTpiZXJvenlDMTgyMA==
+
+Cache-Control: max-age=0
+
+Connection: keep-alive
+
+Content-Length: 183
+
+Content-Type: application/x-www-form-urlencoded
+
+Cookie: JSESSIONID=F77E9CA81151A14FED13C5245227D63F.www20; __utma=195179181.1226049584.1519756183.1519756183.1519756183.1; __utmc=195179181; __utmz=195179181.1519756183.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmt=1; _hjIncludedInSample=1; __utmb=195179181.9.8.1519756735823
+
+Host: portal.booking-manager.com
+
+Referer: https://portal.booking-manager.com/wbm2/app/yachts/index.jsp
+
+User-Agent: runscope/0.1,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+
+PARAMETERS
+filter_country: TR
+
+filter_date: 7
+
+filter_duration: 7
+
+filter_flexibility: on_day
+
+filter_month: 3
+
+filter_service: 2660
+
+filter_service_type: all
+
+filter_year: 2018
+
+resultsPage: 1
+
+view: SearchResult
+
+BODY view formatted
+filter_flexibility=on_day&filter_duration=7&filter_service_type=all&view=SearchResult&filter_year=2018&filter_country=TR&filter_service=2660&filter_month=3&resultsPage=1&filter_date=7
